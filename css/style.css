@@ -3439,3 +3439,96 @@ a {
     min-height:220px;
   }
 }
+
+
+/* =========================================================
+   CANVA HOME CARD — EXACT MATCH WITH OTHER COURSE CARDS
+========================================================= */
+
+.visual-canva::before{
+  left:50%;
+  top:50%;
+  width:104px;
+  height:104px;
+  border-radius:26px;
+  transform:translate(-50%,-50%) rotate(45deg);
+  background:
+    linear-gradient(135deg,rgba(0,229,255,.10),rgba(0,227,140,.04));
+  box-shadow:
+    0 0 26px rgba(0,229,255,.11),
+    inset 0 0 26px rgba(0,229,255,.04);
+}
+
+.visual-canva::after{
+  content:"C";
+  left:50%;
+  top:50%;
+  width:50px;
+  height:50px;
+  display:grid;
+  place-items:center;
+  border:1px solid rgba(0,229,255,.68);
+  border-radius:14px;
+  background:rgba(0,229,255,.12);
+  color:var(--cyan);
+  font-family:var(--font-title);
+  font-size:1.65rem;
+  font-weight:800;
+  line-height:1;
+  box-shadow:
+    0 0 30px rgba(0,229,255,.30),
+    inset 0 0 18px rgba(0,229,255,.10);
+  transform:translate(-50%,-50%);
+}
+
+/* Six courses = three clean rows of two. */
+.course-grid .course-card{
+  grid-column:span 6;
+}
+
+/* Strengthen the same subtle interaction already used by the five original cards. */
+.course-grid .spotlight-card{
+  position:relative;
+  overflow:hidden;
+}
+
+.course-grid .spotlight-card::after{
+  content:"";
+  position:absolute;
+  inset:0;
+  pointer-events:none;
+  z-index:0;
+  background:
+    radial-gradient(
+      360px circle at var(--mx,50%) var(--my,50%),
+      rgba(0,229,255,.115),
+      rgba(0,229,255,.035) 23%,
+      transparent 47%
+    );
+  opacity:0;
+  transition:opacity .22s ease;
+}
+
+.course-grid .spotlight-card:hover::after{
+  opacity:1;
+}
+
+.course-grid .spotlight-card:hover{
+  transform:translateY(-6px);
+  border-color:rgba(0,229,255,.30);
+  box-shadow:
+    0 28px 75px rgba(0,0,0,.42),
+    0 0 38px rgba(0,229,255,.09);
+}
+
+/* Keep all actual card content above the moving spotlight. */
+.course-grid .spotlight-card > *{
+  position:relative;
+  z-index:1;
+}
+
+@media(max-width:900px){
+  .course-grid .course-card{
+    grid-column:span 12;
+  }
+}
