@@ -54,4 +54,13 @@
   <url><loc>https://freecoursehub.com/lesson-smartphones-08.html</loc><priority>0.7</priority></url>
   <url><loc>https://freecoursehub.com/privacy.html</loc><priority>0.5</priority></url>
   <url><loc>https://freecoursehub.com/terms.html</loc><priority>0.5</priority></url>
+  <url><loc>https://freecoursehub.com/course-canva.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://freecoursehub.com/lesson-canva-01.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://freecoursehub.com/lesson-canva-02.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://freecoursehub.com/lesson-canva-03.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://freecoursehub.com/lesson-canva-04.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://freecoursehub.com/lesson-canva-05.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://freecoursehub.com/lesson-canva-06.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://freecoursehub.com/lesson-canva-07.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://freecoursehub.com/lesson-canva-08.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
 </urlset>

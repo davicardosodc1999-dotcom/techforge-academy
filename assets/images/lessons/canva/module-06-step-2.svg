@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071018"/><stop offset="1" stop-color="#13243a"/></linearGradient><pattern id="p" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#00e5ff" stroke-opacity=".07"/></pattern></defs>
+<rect width="1200" height="720" rx="30" fill="url(#g)"/><rect width="1200" height="720" rx="30" fill="url(#p)"/>
+<rect x="190" y="150" width="820" height="420" rx="26" fill="#0b151f" stroke="#00e5ff" stroke-opacity=".35" stroke-width="3"/>
+<circle cx="270" cy="220" r="18" fill="#00e5ff"/><rect x="315" y="203" width="300" height="34" rx="10" fill="#fff" opacity=".9"/>
+<rect x="250" y="285" width="300" height="205" rx="18" fill="#00e38c" opacity=".18"/><rect x="585" y="285" width="365" height="38" rx="12" fill="#00e5ff" opacity=".35"/><rect x="585" y="345" width="290" height="22" rx="9" fill="#fff" opacity=".35"/><rect x="585" y="390" width="330" height="22" rx="9" fill="#fff" opacity=".22"/>
+<text x="600" y="625" text-anchor="middle" fill="#fff" font-family="Arial" font-size="30" font-weight="700">CANVA • MODULE 06 • VISUAL 2</text>
+<text x="600" y="665" text-anchor="middle" fill="#7eefff" font-family="Arial" font-size="20">Practice With a Real Design</text>
+</svg>
