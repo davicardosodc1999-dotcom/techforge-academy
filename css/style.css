@@ -3532,3 +3532,46 @@ a {
     grid-column:span 12;
   }
 }
+
+
+/* =========================================================
+   MOBILE SKILL GAME — TOUCH / SCROLL FIX
+========================================================= */
+
+/*
+  Before START:
+  normal page scrolling is preserved.
+
+  After START:
+  finger gestures inside the arena belong to the game,
+  so swiping the circuit does not move the webpage.
+*/
+#skill-arena.mobile-game-active,
+.skill-arena.mobile-game-active{
+  touch-action:none !important;
+  overscroll-behavior:contain !important;
+  -webkit-user-select:none !important;
+  user-select:none !important;
+  -webkit-touch-callout:none !important;
+}
+
+#skill-arena.mobile-game-active canvas,
+.skill-arena.mobile-game-active canvas,
+#skill-arena.mobile-game-active .skill-player,
+.skill-arena.mobile-game-active .skill-player{
+  touch-action:none !important;
+  -webkit-user-drag:none !important;
+}
+
+/* Mobile gets a little more breathing room for finger control. */
+@media (max-width:700px){
+  #skill-arena,
+  .skill-arena{
+    min-height:420px;
+  }
+
+  #skill-arena.mobile-game-active,
+  .skill-arena.mobile-game-active{
+    cursor:crosshair;
+  }
+}

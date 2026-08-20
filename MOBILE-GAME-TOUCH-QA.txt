@@ -1,0 +1,15 @@
+FREECOURSEHUB — MOBILE GAME TOUCH QA
+
+TOUCH-ACTION NONE WHILE GAME ACTIVE: YES
+POINTER CAPTURE ENABLED: YES
+TOUCHMOVE PREVENTDEFAULT FALLBACK: YES
+DOCUMENT-LEVEL OLD POINTERMOVE HANDLER REMOVED: YES
+GAME ACTIVE CLASS ADDED ON START: YES
+GAME ACTIVE CLASS REMOVED ON RESET/FINISH: YES
+
+EXPECTED MOBILE BEHAVIOR:
+- Scroll normally before starting the challenge.
+- Tap START CHALLENGE.
+- Drag finger through the circuit without the webpage scrolling.
+- Pointer remains captured by the game during the drag.
+- Normal page scrolling returns after reset or completing the game.
