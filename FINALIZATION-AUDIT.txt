@@ -8,6 +8,6 @@ Strict Portuguese suspects: 0
 
 Known deliberate blockers before production:
 - TechForge Academy must be replaced by final brand name.
-- https://YOUR-DOMAIN.com must be replaced by final production domain.
+- https://freecoursehub.com must be replaced by final production domain.
 - Real images still need to be selected/added.
 - One final video per module still needs to be embedded.

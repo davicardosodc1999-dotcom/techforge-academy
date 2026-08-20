@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#071018"/>
+    <stop offset="1" stop-color="#0d1b25"/>
+  </linearGradient>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M40 0H0V40" fill="none" stroke="#00e5ff" stroke-opacity=".08" stroke-width="1"/>
+  </pattern>
+</defs>
+<rect width="1200" height="720" rx="30" fill="url(#g)"/>
+<rect width="1200" height="720" rx="30" fill="url(#grid)"/>
+<circle cx="600" cy="285" r="110" fill="none" stroke="#00e5ff" stroke-opacity=".55" stroke-width="5"/>
+<path d="M510 285h180M600 195v180" stroke="#00e38c" stroke-width="7" stroke-linecap="round"/>
+<text x="600" y="465" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="34" font-weight="700">ELECTRONICS MODULE 03</text>
+<text x="600" y="515" text-anchor="middle" fill="#00e5ff" font-family="Arial, sans-serif" font-size="24">STEP 01 — Choose the meter mode deliberately</text>
+<text x="600" y="570" text-anchor="middle" fill="#94a8b5" font-family="Arial, sans-serif" font-size="20">Final instructional image will replace this visual slot</text>
+</svg>

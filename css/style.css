@@ -2920,3 +2920,84 @@ a {
   z-index:20 !important;
   background:#000 !important;
 }
+
+
+/* =========================================================
+   INSTRUCTIONAL IMAGE SLOTS FINAL
+========================================================= */
+.instructional-step-image{
+  display:block;
+  width:100%;
+  height:auto;
+  aspect-ratio:5/3;
+  object-fit:cover;
+  border-radius:16px;
+  border:1px solid rgba(0,229,255,.14);
+  background:#071018;
+}
+
+.electronics-step{
+  display:grid;
+  grid-template-columns:minmax(260px,.9fr) minmax(0,1.1fr);
+  gap:22px;
+  align-items:center;
+}
+
+.electronics-step__visual{
+  margin:0;
+  min-width:0;
+}
+
+@media(max-width:760px){
+  .electronics-step{
+    grid-template-columns:1fr;
+  }
+}
+
+/* =========================================================
+   ADSENSE-READY PLACEHOLDERS
+   No ad code is loaded until the real AdSense account is approved.
+========================================================= */
+.adsense-ready-slot{
+  width:min(100%,970px);
+  min-height:130px;
+  margin:44px auto;
+  padding:18px;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
+  gap:6px;
+  text-align:center;
+  border:1px dashed rgba(148,168,181,.32);
+  border-radius:14px;
+  background:rgba(255,255,255,.018);
+  color:#81909c;
+  clear:both;
+}
+
+.adsense-ready-slot__label{
+  font-size:.62rem;
+  letter-spacing:.15em;
+  font-weight:800;
+  color:#778691;
+}
+
+.adsense-ready-slot__body{
+  font-size:.88rem;
+  font-weight:700;
+  color:#9eabb5;
+}
+
+.adsense-ready-slot small{
+  max-width:580px;
+  color:#6f7e89;
+  line-height:1.5;
+}
+
+@media(max-width:600px){
+  .adsense-ready-slot{
+    min-height:110px;
+    margin:34px auto;
+  }
+}
