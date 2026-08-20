@@ -3408,3 +3408,34 @@ a {
   .canva-window__body{min-height:330px;grid-template-columns:58px 1fr}
   .canva-canvas{padding:22px}
 }
+
+
+/* =========================================================
+   CANVA FINAL 7 VIDEO EMBEDS — 48/48
+========================================================= */
+.canva-video-placeholder.canva-video-live{
+  position:relative !important;
+  width:100% !important;
+  aspect-ratio:16/9 !important;
+  min-height:340px;
+  padding:0 !important;
+  overflow:hidden !important;
+  background:#000 !important;
+}
+
+.canva-video-placeholder.canva-video-live .lesson-youtube-iframe{
+  position:absolute !important;
+  inset:0 !important;
+  width:100% !important;
+  height:100% !important;
+  display:block !important;
+  border:0 !important;
+  opacity:1 !important;
+  visibility:visible !important;
+}
+
+@media(max-width:700px){
+  .canva-video-placeholder.canva-video-live{
+    min-height:220px;
+  }
+}
