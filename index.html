@@ -138,7 +138,7 @@
 </div>
 <div class="skill-game__bottom">
 <span id="skill-status">READY // 3 STAGES</span>
-<button id="skill-reset" onclick="resetSkillGame()" type="button">RESET</button>
+<button data-game-control="true" id="skill-reset" onclick="resetSkillGame()" type="button">RESET</button>
 </div>
 </div>
 </div>
@@ -627,9 +627,14 @@
   };
 
   window.resetSkillGame = function () {
+    if (typeof window.__skillGameReset === 'function') {
+      window.__skillGameReset();
+      return;
+    }
     var intro = document.getElementById('skill-intro');
     var result = document.getElementById('skill-result');
     var status = document.getElementById('skill-status');
+    var arena = document.getElementById('skill-arena');
     if (intro) {
       intro.hidden = false;
       intro.style.display = 'flex';
@@ -637,6 +642,9 @@
     if (result) {
       result.hidden = true;
       result.style.display = 'none';
+    }
+    if (arena) {
+      arena.classList.remove('mobile-game-active','touch-playing','running','signal-lost');
     }
     if (status) status.textContent = 'READY // 3 STAGES';
     if (typeof window.__skillGameLoadStage === 'function') {

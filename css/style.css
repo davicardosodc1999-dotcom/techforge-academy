@@ -3575,3 +3575,28 @@ a {
     cursor:crosshair;
   }
 }
+
+
+/* =========================================================
+   SKILL GAME MOBILE CONTROLS — CLICK/TAP FIX
+========================================================= */
+#skill-reset,
+#skill-start-btn,
+#skill-result a,
+#skill-result button,
+.skill-game .game-button,
+.skill-game [data-game-control]{
+  pointer-events:auto !important;
+  touch-action:manipulation !important;
+  -webkit-user-select:none;
+  user-select:none;
+  position:relative;
+  z-index:50;
+}
+
+#skill-arena.mobile-game-active button,
+#skill-arena.mobile-game-active a,
+.skill-arena.mobile-game-active button,
+.skill-arena.mobile-game-active a{
+  touch-action:manipulation !important;
+}

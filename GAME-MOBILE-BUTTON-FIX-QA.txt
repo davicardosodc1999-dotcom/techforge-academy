@@ -1,0 +1,16 @@
+FREECOURSEHUB — GAME MOBILE BUTTON FIX QA
+
+SCROLL BLOCK DURING ACTIVE GAME: YES
+INTERACTIVE TARGET EXCLUSION: YES
+POINTERUP DOES NOT PREVENT CLICK: YES
+RESET DIRECT HANDLER: YES
+RESET INLINE FALLBACK UPDATED: YES
+RESET MARKED AS GAME CONTROL: YES
+RESULT BUTTON/LINK TOUCH ENABLED: YES
+
+EXPECTED:
+- START works.
+- RESET works on desktop and mobile.
+- Final course button works after completing stage 3.
+- Dragging inside active circuit does not scroll the page.
+- Scrolling outside the active circuit remains normal.

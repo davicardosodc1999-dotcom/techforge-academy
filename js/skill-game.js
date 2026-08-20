@@ -25,22 +25,40 @@ function finish(){active=armed=false;A.classList.remove("running");if(n<2){S.tex
 function celebrate(){A.classList.remove("mobile-game-active","touch-playing");if(!reduced)fireworks();setTimeout(()=>{R.hidden=false;R.style.display="flex";R.innerHTML='<span>DIAGNOSTIC COMPLETE</span><strong>YOU CLEARED ALL 3 STAGES.</strong><p>Nice control. Ready to turn that curiosity into a real repair skill?</p><a class="game-button" href="course-android.html">START THE FREE ANDROID COURSE →</a>'},reduced?200:1050)}
 function fireworks(){const r=rect(),q=[],colors=["#00e5ff","#fff","#00a8ff","#7b5cff","#00e38c"];for(let b=0;b<7;b++){const cx=r.width*(.12+Math.random()*.76),cy=r.height*(.12+Math.random()*.52);for(let i=0;i<36;i++){const a=Math.PI*2*i/36,sp=1.5+Math.random()*3.7;q.push({x:cx,y:cy,vx:Math.cos(a)*sp,vy:Math.sin(a)*sp,l:1,z:1+Math.random()*2.5,c:colors[Math.floor(Math.random()*colors.length)]})}}let f=0;(function anim(){FX.clearRect(0,0,r.width,r.height);q.forEach(p=>{p.x+=p.vx;p.y+=p.vy;p.vy+=.035;p.l-=.015;FX.globalAlpha=Math.max(0,p.l);FX.fillStyle=p.c;FX.shadowColor=p.c;FX.shadowBlur=12;FX.beginPath();FX.arc(p.x,p.y,p.z,0,Math.PI*2);FX.fill()});FX.globalAlpha=1;FX.shadowBlur=0;if(++f<82)requestAnimationFrame(anim);else FX.clearRect(0,0,r.width,r.height)})()}
 B.addEventListener("click",()=>{I.hidden=true;I.style.display="none";R.hidden=true;R.style.display="none";A.classList.add("mobile-game-active");load(0);S.textContent="MOVE TO START // THEN FOLLOW THE CIRCUIT"});
-Reset?.addEventListener("click",()=>{I.hidden=false;I.style.display="flex";R.hidden=true;R.style.display="none";A.classList.remove("mobile-game-active","touch-playing");load(0);S.textContent="READY // 3 STAGES"});
-// MOBILE / POINTER CONTROL
-// While the challenge is active, the arena owns the gesture.
-// This prevents the browser from interpreting a finger drag as page scrolling.
+function resetGameUI(){
+  I.hidden=false;
+  I.style.display="flex";
+  R.hidden=true;
+  R.style.display="none";
+  A.classList.remove("mobile-game-active","touch-playing","running","signal-lost");
+  load(0);
+  S.textContent="READY // 3 STAGES";
+}
+Reset?.addEventListener("click",(e)=>{
+  e.stopPropagation();
+  resetGameUI();
+});
+window.__skillGameReset=resetGameUI;
+// MOBILE / POINTER CONTROL — BUTTON-SAFE VERSION
 function gameInputEnabled(){
   return I.hidden && R.hidden;
 }
 
+function isInteractiveTarget(target){
+  return !!(target && target.closest && target.closest(
+    "button, a, input, select, textarea, [role='button'], [data-game-control]"
+  ));
+}
+
 A.addEventListener("pointerdown",function(e){
   if(!gameInputEnabled()) return;
+  if(isInteractiveTarget(e.target)) return;
+
+  A.classList.add("touch-playing");
 
   if(e.pointerType==="touch" || e.pointerType==="pen"){
     e.preventDefault();
   }
-
-  A.classList.add("touch-playing");
 
   try{
     A.setPointerCapture(e.pointerId);
@@ -51,6 +69,7 @@ A.addEventListener("pointerdown",function(e){
 
 A.addEventListener("pointermove",function(e){
   if(!gameInputEnabled()) return;
+  if(isInteractiveTarget(e.target)) return;
 
   if(e.pointerType==="touch" || e.pointerType==="pen"){
     e.preventDefault();
@@ -60,15 +79,13 @@ A.addEventListener("pointermove",function(e){
 },{passive:false});
 
 A.addEventListener("pointerup",function(e){
-  if(e.pointerType==="touch" || e.pointerType==="pen"){
-    e.preventDefault();
-  }
   try{
     if(A.hasPointerCapture(e.pointerId)){
       A.releasePointerCapture(e.pointerId);
     }
   }catch(_){}
-},{passive:false});
+  A.classList.remove("touch-playing");
+},{passive:true});
 
 A.addEventListener("pointercancel",function(e){
   try{
@@ -76,14 +93,19 @@ A.addEventListener("pointercancel",function(e){
       A.releasePointerCapture(e.pointerId);
     }
   }catch(_){}
+  A.classList.remove("touch-playing");
+},{passive:true});
+
+A.addEventListener("touchmove",function(e){
+  if(!gameInputEnabled()) return;
+  if(isInteractiveTarget(e.target)) return;
+  e.preventDefault();
 },{passive:false});
 
-// Extra fallback for older mobile browsers.
-// touch-action in CSS does the main work; preventDefault here guarantees
-// that a finger drag inside an active game cannot scroll the document.
-A.addEventListener("touchmove",function(e){
-  if(gameInputEnabled()){
-    e.preventDefault();
-  }
-},{passive:false});addEventListener("resize",resize,{passive:true});resize();
+if(Reset){
+  Reset.setAttribute("data-game-control","true");
+  Reset.style.touchAction="manipulation";
+}
+
+addEventListener("resize",resize,{passive:true});resize();
 });
