@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en" lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#06080D">
+<title>My Learning Progress | TechForge Academy</title>
+<meta name="description" content="Track your progress across free Android, iPhone and laptop repair courses.">
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/progress.css">
+<script defer src="js/main.js"></script>
+<script defer src="js/progress.js"></script>
+<link rel="canonical" href="https://YOUR-DOMAIN.com/dashboard.html">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="manifest" href="site.webmanifest">
+</head>
+<body data-unified-dashboard>
+<header id="header" class="header scrolled">
+<div class="container header-inner">
+<a href="index.html" class="logo"><span class="logo-mark"></span><span>TechForge Academy</span></a>
+<nav class="nav" aria-label="Main menu"><ul id="primary-nav" class="nav-list">
+<li><a href="courses.html">Courses</a></li><li><a href="index.html#trails">Learning Paths</a></li>
+<li><a href="certificate.html">Certificate</a></li><li><a href="contact.html">Contact</a></li>
+</ul></nav>
+<a href="courses.html" class="btn btn-primary header-cta">KEEP LEARNING</a>
+<button id="mobile-menu-btn" class="mobile-menu-btn" type="button" aria-label="Open menu" aria-controls="primary-nav" aria-expanded="false"><span></span><span></span><span></span></button>
+</div></header>
+
+<main class="unified-dashboard section-shell">
+<div class="container">
+<div class="dashboard-hero-grid">
+<section class="overall-card">
+<span class="section-kicker">MY LEARNING</span>
+<h1>BUILD SKILL.<br>TRACK PROGRESS.</h1>
+<p>Your learning progress is stored locally on this device during development.</p>
+<div class="big-percent" id="overall-progress-value">0%</div>
+<div class="progress-track"><i id="overall-progress-bar"></i></div>
+</section>
+<section class="certificate-card">
+<span class="section-kicker">CERTIFICATE ELIGIBILITY</span>
+<h2>Complete every module in a course.</h2>
+<p id="dashboard-certificate-status">Complete all 8 modules of a course to unlock certificate eligibility.</p>
+<a class="btn btn-secondary" href="certificate.html">VIEW CERTIFICATE STATUS →</a>
+</section>
+</div>
+
+<div class="dashboard-course-grid">
+<section class="dash-course" data-course-card="android">
+<div class="dash-course-head"><span>ANDROID</span><strong class="course-percent" data-course-percent>0%</strong></div>
+<h2>Android Repair</h2><p data-course-count>0 / 8 modules completed</p>
+<div class="progress-track"><i data-course-bar></i></div><a data-continue class="btn btn-primary" href="lesson-android-01.html" style="margin-top:18px">CONTINUE →</a>
+</section>
+<section class="dash-course" data-course-card="iphone">
+<div class="dash-course-head"><span>IPHONE</span><strong class="course-percent" data-course-percent>0%</strong></div>
+<h2>iPhone Repair</h2><p data-course-count>0 / 8 modules completed</p>
+<div class="progress-track"><i data-course-bar></i></div><a data-continue class="btn btn-primary" href="lesson-iphone-01.html" style="margin-top:18px">CONTINUE →</a>
+</section>
+<section class="dash-course" data-course-card="laptops">
+<div class="dash-course-head"><span>LAPTOP</span><strong class="course-percent" data-course-percent>0%</strong></div>
+<h2>Laptop Maintenance</h2><p data-course-count>0 / 8 modules completed</p>
+<div class="progress-track"><i data-course-bar></i></div><a data-continue class="btn btn-primary" href="lesson-laptop-01.html" style="margin-top:18px">CONTINUE →</a>
+</section>
+<section class="dash-course" data-course-card="diagnostics"><div class="dash-course-head"><span>DIAGNOSTICS</span><strong class="course-percent" data-course-percent>0%</strong></div><h2>Mobile Device Diagnostics</h2><p data-course-count>0 / 8 modules completed</p><div class="progress-track"><i data-course-bar></i></div><a data-continue class="btn btn-primary" href="lesson-diagnostics-01.html" style="margin-top:18px">CONTINUE →</a></section><section class="dash-course" data-course-card="electronics"><div class="dash-course-head"><span>ELECTRONICS</span><strong class="course-percent" data-course-percent>0%</strong></div><h2>Electronics Essentials</h2><p data-course-count>0 / 8 modules completed</p><div class="progress-track"><i data-course-bar></i></div><a data-continue class="btn btn-primary" href="lesson-electronics-01.html" style="margin-top:18px">CONTINUE →</a></section></div>
+
+<section class="certificate-status-box">
+<span class="section-kicker">HOW COMPLETION WORKS</span>
+<h2>Progress is earned, not faked.</h2>
+<p>Each module requires a knowledge check before it can be marked complete. Certificate eligibility appears only after all eight modules in a course are completed.</p>
+</section>
+</div>
+</main>
+<div class="mobile-overlay" id="mobile-overlay" hidden></div>
+</body></html>

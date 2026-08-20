@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070a12"/><stop offset="1" stop-color="#10213a"/></linearGradient><radialGradient id="g"><stop stop-color="#7b5cff" stop-opacity=".28"/><stop offset="1" stop-color="#00e5ff" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="720" fill="url(#b)"/><circle cx="900" cy="230" r="340" fill="url(#g)"/>
+<g transform="translate(760 100)"><rect width="250" height="500" rx="42" fill="#080d16" stroke="#6fdfff" stroke-width="4"/><rect x="18" y="55" width="214" height="375" rx="18" fill="#13263a"/><rect x="82" y="18" width="86" height="20" rx="10" fill="#263c50"/><circle cx="125" cy="465" r="15" fill="none" stroke="#6fdfff" opacity=".35"/></g>
+<text x="70" y="90" fill="#75e9ff" font-family="Arial" font-size="24" font-weight="700">IPHONE • MODULE 07 • STEP 1</text>
+<text x="70" y="165" fill="#fff" font-family="Arial" font-size="46" font-weight="700">Reassemble in reverse logic</text>
+<foreignObject x="70" y="205" width="570" height="280"><div xmlns="http://www.w3.org/1999/xhtml" style="font:28px Arial;line-height:1.45;color:#afbdca">Restore connectors, brackets, cable routes and fasteners deliberately. Do not close the housing if anything sits differently from the documented layout.</div></foreignObject>
+<text x="70" y="640" fill="#708294" font-family="Arial" font-size="18">Learning illustration - verify the exact model before physical service</text></svg>

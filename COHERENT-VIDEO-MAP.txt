@@ -1,0 +1,45 @@
+TECHFORGE ACADEMY — COHERENT VIDEO MAP
+
+Rule: every video must reinforce the actual lesson topic. No unrelated filler.
+Embedding: official YouTube player only; videos are not copied or rehosted.
+
+lesson-android-01.html | How a Smartphone Is Built | How to Repair an Android Phone (Step-by-Step) — Esme Tech | https://www.youtube.com/watch?v=cO_j9FEe0UU
+lesson-android-02.html | Workbench and Essential Tools | How to Repair an Android Phone (Step-by-Step) — Esme Tech | https://www.youtube.com/watch?v=cO_j9FEe0UU
+lesson-android-03.html | Repair Safety | How to Repair an Android Phone (Step-by-Step) — Esme Tech | https://www.youtube.com/watch?v=cO_j9FEe0UU
+lesson-android-04.html | Internal Components | How to Repair an Android Phone (Step-by-Step) — Esme Tech | https://www.youtube.com/watch?v=cO_j9FEe0UU
+lesson-android-05.html | Opening and Disassembly | How to Repair an Android Phone (Step-by-Step) — Esme Tech | https://www.youtube.com/watch?v=cO_j9FEe0UU
+lesson-android-06.html | Basic Diagnostics | Multimeter for Electronics Repair — nanofix | https://www.youtube.com/watch?v=hPId4eIgtR4
+lesson-android-07.html | Reassembly and Functional Tests | How to Repair an Android Phone (Step-by-Step) — Esme Tech | https://www.youtube.com/watch?v=cO_j9FEe0UU
+lesson-android-08.html | Final Review and Assessment | How to Repair an Android Phone (Step-by-Step) — Esme Tech | https://www.youtube.com/watch?v=cO_j9FEe0UU
+lesson-iphone-01.html | iPhone Repair Foundations and Safety | iPhone X Screen Replacement—How To — iFixit | https://www.youtube.com/watch?v=FNR0YoB5eM8
+lesson-iphone-02.html | Tools, Fasteners and Opening Strategy | iPhone X Screen Replacement—How To — iFixit | https://www.youtube.com/watch?v=FNR0YoB5eM8
+lesson-iphone-03.html | Inside an iPhone: Components and Flex Cables | iPhone X Screen Replacement—How To — iFixit | https://www.youtube.com/watch?v=FNR0YoB5eM8
+lesson-iphone-04.html | Display Replacement Workflow | iPhone X Screen Replacement—How To — iFixit | https://www.youtube.com/watch?v=FNR0YoB5eM8
+lesson-iphone-05.html | Battery Service and Power Symptoms | iPhone X Battery Replacement—How To — iFixit | https://www.youtube.com/watch?v=2GfBOlJEW10
+lesson-iphone-06.html | Charging, Audio and Common Peripheral Faults | Complete iPhone 15 Charging Port Repair — How-FixIT | https://www.youtube.com/watch?v=2ksj6Mc8luE
+lesson-iphone-07.html | Reassembly, Sealing and Functional Testing | iPhone X Screen Replacement—How To — iFixit | https://www.youtube.com/watch?v=FNR0YoB5eM8
+lesson-iphone-08.html | From Beginner to First Supervised iPhone Repair | iPhone X Screen Replacement—How To — iFixit | https://www.youtube.com/watch?v=FNR0YoB5eM8
+lesson-laptop-01.html | Laptop Hardware Foundations and Safety | LG Gram Teardown / SSD / Battery / Cooling — UberGeeks | https://www.youtube.com/watch?v=XroZwCoYN34
+lesson-laptop-02.html | Tools, Fasteners and Safe Disassembly | LG Gram Teardown / SSD / Battery / Cooling — UberGeeks | https://www.youtube.com/watch?v=XroZwCoYN34
+lesson-laptop-03.html | RAM, Storage and Upgrade Planning | LG Gram Teardown / SSD / Battery / Cooling — UberGeeks | https://www.youtube.com/watch?v=XroZwCoYN34
+lesson-laptop-04.html | Cooling, Cleaning and Thermal Management | LG Gram Teardown / SSD / Battery / Cooling — UberGeeks | https://www.youtube.com/watch?v=XroZwCoYN34
+lesson-laptop-05.html | Battery, Charging and Power Symptoms | How to Use a Multimeter — The Engineering Mindset | https://www.youtube.com/watch?v=4lAyzRxsbDc
+lesson-laptop-06.html | Display, Keyboard, Ports and Common Peripheral Faults | LG Gram Teardown / SSD / Battery / Cooling — UberGeeks | https://www.youtube.com/watch?v=XroZwCoYN34
+lesson-laptop-07.html | Reassembly and Full Functional Testing | LG Gram Teardown / SSD / Battery / Cooling — UberGeeks | https://www.youtube.com/watch?v=XroZwCoYN34
+lesson-laptop-08.html | Your First Structured Laptop Maintenance Job | LG Gram Teardown / SSD / Battery / Cooling — UberGeeks | https://www.youtube.com/watch?v=XroZwCoYN34
+lesson-diagnostics-01.html | Diagnostic Thinking: From Symptom to Evidence | Multimeter for Electronics Repair — nanofix | https://www.youtube.com/watch?v=hPId4eIgtR4
+lesson-diagnostics-02.html | Power, Charging and No-Start Diagnostics | How to Use a Multimeter — The Engineering Mindset | https://www.youtube.com/watch?v=4lAyzRxsbDc
+lesson-diagnostics-03.html | Display, Touch and Image Problems | Multimeter for Electronics Repair — nanofix | https://www.youtube.com/watch?v=hPId4eIgtR4
+lesson-diagnostics-04.html | Audio, Camera, Button and Sensor Faults | Multimeter for Electronics Repair — nanofix | https://www.youtube.com/watch?v=hPId4eIgtR4
+lesson-diagnostics-05.html | Connectivity and Software vs Hardware | Multimeter for Electronics Repair — nanofix | https://www.youtube.com/watch?v=hPId4eIgtR4
+lesson-diagnostics-06.html | Liquid, Corrosion and Intermittent Faults | Multimeter for Electronics Repair — nanofix | https://www.youtube.com/watch?v=hPId4eIgtR4
+lesson-diagnostics-07.html | Multimeter Foundations for Diagnosis | How to Use a Multimeter — The Engineering Mindset | https://www.youtube.com/watch?v=4lAyzRxsbDc
+lesson-diagnostics-08.html | Build a Complete Diagnostic Workflow | Multimeter for Electronics Repair — nanofix | https://www.youtube.com/watch?v=hPId4eIgtR4
+lesson-electronics-01.html | Voltage, Current and Resistance | DC Series Circuits / Voltage / Current / Resistance — The Engineering Mindset | https://www.youtube.com/watch?v=VV6tZ3Aqfuc
+lesson-electronics-02.html | Common Electronic Components | Diode / Resistance / Continuity Modes — Learn Electronics Repair | https://www.youtube.com/watch?v=FB4SSXjtV2o
+lesson-electronics-03.html | Multimeter Basics for Repair | How to Use a Multimeter — The Engineering Mindset | https://www.youtube.com/watch?v=4lAyzRxsbDc
+lesson-electronics-04.html | Reading a Circuit Board | Multimeter for Electronics Repair — nanofix | https://www.youtube.com/watch?v=hPId4eIgtR4
+lesson-electronics-05.html | Power Paths and Ground | DC Series Circuits / Voltage / Current / Resistance — The Engineering Mindset | https://www.youtube.com/watch?v=VV6tZ3Aqfuc
+lesson-electronics-06.html | Continuity, Resistance and Simple Fault Isolation | Diode / Resistance / Continuity Modes — Learn Electronics Repair | https://www.youtube.com/watch?v=FB4SSXjtV2o
+lesson-electronics-07.html | Safe Measurement and Diagnostic Discipline | How to Use a Multimeter — The Engineering Mindset | https://www.youtube.com/watch?v=4lAyzRxsbDc
+lesson-electronics-08.html | Electronics Fundamentals Applied to Repair | Multimeter for Electronics Repair — nanofix | https://www.youtube.com/watch?v=hPId4eIgtR4

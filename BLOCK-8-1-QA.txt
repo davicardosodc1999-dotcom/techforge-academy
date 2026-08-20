@@ -1,0 +1,25 @@
+BLOCK 8.1 — IPHONE COURSE SAFE MERGE
+
+Base: Block 7.1 (known-good Home).
+Only iPhone-course files/assets were merged from Block 8.
+
+css/style.css unchanged: True
+js/main.js unchanged: True
+index exists: True
+iphone course exists: True
+8 iphone lessons: 8
+8 iphone PDFs: 8
+
+iPhone lesson visible-word counts:
+lesson-iphone-01.html: 2541 words
+lesson-iphone-02.html: 2535 words
+lesson-iphone-03.html: 2531 words
+lesson-iphone-04.html: 2519 words
+lesson-iphone-05.html: 2541 words
+lesson-iphone-06.html: 2503 words
+lesson-iphone-07.html: 2535 words
+lesson-iphone-08.html: 2535 words
+
+Missing iPhone course local HTML links: none
+
+IMPORTANT: Home CSS and main.js were intentionally not replaced.

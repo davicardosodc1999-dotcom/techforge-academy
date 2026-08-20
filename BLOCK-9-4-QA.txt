@@ -1,0 +1,4 @@
+inline onclick: OK
+inline global start: OK
+load stage exported: OK
+contact: OK

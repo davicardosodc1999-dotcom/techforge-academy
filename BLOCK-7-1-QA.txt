@@ -1,0 +1,17 @@
+BLOCK 7.1 — SAFE ANDROID MIGRATION
+
+Base: known-good Block 6.1.
+Goal: migrate the Smartphone pillar to Android WITHOUT rebuilding or modifying the working Home CSS/JS.
+
+index.html exists/size: (True, 27753)
+css/style.css exists/size: (True, 48568)
+js/main.js exists/size: (True, 9956)
+
+Actions:
+- Renamed Smartphone course/lesson pages to Android filenames.
+- Updated HTML links/text references only.
+- Left the known-good CSS and main JavaScript untouched.
+- Added redirect aliases for the old Smartphone URLs.
+- Preserved iPhone, Notebook, Electronics and certificate work from Block 6.1.
+
+No unexpected local HTML links found.

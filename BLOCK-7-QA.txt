@@ -1,0 +1,72 @@
+BLOCK 7 — ANDROID / IPHONE / NOTEBOOK COURSE ARCHITECTURE
+
+Primary learning pillars:
+1. Android
+2. iPhone
+3. Notebook
+
+Electronics remains a supporting/foundational subject.
+
+Changes in this block:
+- Existing generic smartphone course migrated to Android naming.
+- Existing smartphone lesson filenames migrated to Android filenames.
+- Internal links updated to the new Android filenames.
+- Home-facing generic smartphone labels migrated toward Android.
+- Existing iPhone and Notebook directions preserved.
+- English-first public UI preserved.
+- No backend added.
+- Existing premium visual system preserved.
+
+Editorial rules carried forward:
+- Each full module must contain at least 2,000 words.
+- One video per module is enough.
+- Step-by-step images belong beside the relevant steps.
+- Free downloadable lesson PDF remains part of each module.
+- Free-course positioning remains prominent.
+- Certificate remains a completion certificate, not a regulated professional credential.
+- Future monetization must be implemented conservatively and reviewed against current Google AdSense policies before production.
+
+IMPORTANT:
+This block is an incremental migration. It does not invent Android-specific technical procedures where the existing generic smartphone lesson would require model-specific verification. Those technical refinements should be handled carefully in subsequent editorial blocks.
+
+Local HTML link audit:
+course-diagnostics.html -> contact.html
+course-diagnostics.html -> privacy.html
+lesson-android-01.html -> course-Android devices.html
+lesson-android-01.html -> course-Android devices.html
+lesson-android-01.html -> course-Android devices.html
+lesson-android-08.html -> course-Android devices.html
+lesson-android-08.html -> course-Android devices.html
+lesson-android-02.html -> course-Android devices.html
+lesson-android-02.html -> course-Android devices.html
+dashboard.html -> course-Android devices.html
+dashboard.html -> course-Android devices.html
+course-laptops.html -> contact.html
+course-laptops.html -> privacy.html
+courses.html -> course-Android devices.html
+courses.html -> contact.html
+courses.html -> privacy.html
+index.html -> login.html
+index.html -> course-Android devices.html
+index.html -> course-Android devices.html
+index.html -> contato.html
+index.html -> privacidade.html
+index.html -> termos.html
+lesson-android-07.html -> course-Android devices.html
+lesson-android-07.html -> course-Android devices.html
+course-android.html -> contact.html
+course-android.html -> privacy.html
+lesson-android-06.html -> course-Android devices.html
+lesson-android-06.html -> course-Android devices.html
+lesson-android-04.html -> course-Android devices.html
+lesson-android-04.html -> course-Android devices.html
+lesson-android-03.html -> course-Android devices.html
+lesson-android-03.html -> course-Android devices.html
+lesson-android-05.html -> course-Android devices.html
+lesson-android-05.html -> course-Android devices.html
+course-iphone.html -> contact.html
+course-iphone.html -> privacy.html
+course-electronics.html -> contact.html
+course-electronics.html -> privacy.html
+curso-android.html -> course-Android devices.html
+curso-android.html -> course-Android devices.html

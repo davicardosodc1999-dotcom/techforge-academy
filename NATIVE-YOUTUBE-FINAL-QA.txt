@@ -1,0 +1,13 @@
+TECHFORGE ACADEMY — NATIVE YOUTUBE PLAYER FINAL QA
+
+PUBLIC LESSONS EXPECTED: 40
+LESSONS UPDATED: 40
+NATIVE YOUTUBE PLAYERS: 40
+OLD DYNAMIC VIDEO ATTRIBUTES REMAINING: 0
+LESSONS WITHOUT NATIVE IFRAME: 0
+UNIQUE VIDEO IDS: 9
+
+Implementation:
+- Native YouTube iframe written directly in every public lesson HTML.
+- No JavaScript dependency for rendering the player.
+- YouTube itself supplies the player preview/thumbnail/title/play button.

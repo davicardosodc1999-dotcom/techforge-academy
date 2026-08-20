@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071018"/><stop offset="1" stop-color="#102335"/></linearGradient><radialGradient id="g"><stop stop-color="#00e5ff" stop-opacity=".24"/><stop offset="1" stop-color="#00e5ff" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="720" fill="url(#b)"/><circle cx="875" cy="230" r="340" fill="url(#g)"/>
+<g transform="translate(690 165)"><rect x="80" width="300" height="205" rx="15" fill="#0a121c" stroke="#00e5ff" stroke-width="4"/><rect x="100" y="20" width="260" height="155" rx="8" fill="#153047"/><path d="M25 230 H435 L390 285 H70 Z" fill="#0a121c" stroke="#00e5ff" stroke-width="4"/><rect x="170" y="245" width="120" height="18" rx="7" fill="#244b64"/></g>
+<text x="70" y="90" fill="#69e9ff" font-family="Arial" font-size="24" font-weight="700">LAPTOP COURSE • MODULE 06 • STEP 3</text>
+<text x="70" y="165" fill="#fff" font-family="Arial" font-size="46" font-weight="700">Retest only after a controlled change</text>
+<foreignObject x="70" y="210" width="555" height="280"><div xmlns="http://www.w3.org/1999/xhtml" style="font:28px Arial;line-height:1.45;color:#afbdca">Avoid replacing multiple peripherals at once because it destroys diagnostic clarity.</div></foreignObject>
+<text x="70" y="640" fill="#708294" font-family="Arial" font-size="18">Learning illustration • verify exact model documentation before physical service</text></svg>

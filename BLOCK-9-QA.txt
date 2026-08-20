@@ -1,0 +1,8 @@
+BLOCK 9
+- Interactive 3-stage hero game: SIGNAL > DIAGNOSE > REPAIR
+- Mouse and touch pointer support
+- Path collision + reset
+- Final particle/firework celebration
+- Final CTA to free Android course
+- Android trail icon class corrected
+- No external libraries or ad code added

@@ -1,0 +1,14 @@
+
+/* BLOCK 8 - IPHONE COURSE */
+.course-lesson-shell{max-width:1040px;margin:auto;padding:118px 20px 70px}
+.lesson-kicker{color:#00e5ff;font-weight:800;letter-spacing:.12em;font-size:.78rem}
+.course-lesson-shell h1{font-size:clamp(2.2rem,5vw,4.4rem);line-height:1.04;margin:.35em 0}
+.lesson-lead{font-size:1.1rem;color:#a8b7c5;max-width:820px}
+.editorial-section{margin:30px 0}.editorial-section h2{font-size:1.55rem;margin-bottom:8px}.editorial-section p{color:#b1bfcb}
+.iphone-step{display:grid;grid-template-columns:1.05fr .95fr;gap:24px;align-items:center;margin:28px 0;padding:20px;border:1px solid rgba(0,229,255,.14);border-radius:20px;background:#0b121b}
+.iphone-step img{width:100%;height:auto;border-radius:15px}.iphone-step__num{color:#00e5ff;font-weight:800;letter-spacing:.1em}
+.single-video{margin:38px 0;padding:22px;border-radius:20px;background:#09111a;border:1px solid rgba(123,92,255,.24)}
+.single-video__frame{aspect-ratio:16/9;display:grid;place-items:center;text-align:center;padding:30px;border-radius:15px;background:linear-gradient(135deg,#10182a,#071018);color:#9fb0bf}
+.free-box{margin:34px 0;padding:24px;border-radius:20px;background:rgba(0,227,140,.045);border:1px solid rgba(0,227,140,.2)}
+.free-box strong{color:#00e38c}.lesson-actions{display:flex;gap:12px;flex-wrap:wrap;margin-top:18px}
+@media(max-width:760px){.iphone-step{grid-template-columns:1fr}}

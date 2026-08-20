@@ -1,0 +1,13 @@
+BLOCK 9.2 — BUILT DIRECTLY FROM USER-UPLOADED PROJECT
+
+- Source: curso-tecnologia-atual.zip supplied by the user.
+- Windows ZIP paths were normalized before editing.
+- Hero decorative card replaced with a standalone 3-stage circuit game.
+- START CHALLENGE uses an independent js/skill-game.js and no longer depends on the old main.js game code.
+- Stage sequence: SIGNAL -> DIAGNOSE -> REPAIR.
+- Final stage triggers particle/fireworks celebration before the completion message.
+- Contact navigation added to Home.
+- contact.html created.
+- Contact delivery still needs the client's real receiving email before public launch.
+- Android card keeps the smartphone-style icon.
+- Existing course files were preserved from the user's uploaded project.

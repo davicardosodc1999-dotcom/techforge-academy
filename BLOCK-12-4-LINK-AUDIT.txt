@@ -1,0 +1,5 @@
+BLOCK 12.4 — REAL NAVIGATION
+
+Public root HTML pages scanned: 66
+Broken internal links remaining: 0
+NONE

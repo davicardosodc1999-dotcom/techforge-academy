@@ -1,0 +1,7 @@
+BLOCK 9.1 — GAME FIX + CONTACT
+
+Game fix: .game-intro[hidden] now forces display:none so START CHALLENGE can reveal the maze.
+Contact: contact.html + js/contact.js added.
+Contact navigation added to the homepage.
+IMPORTANT: replace CLIENT-EMAIL-HERE in js/contact.js with the client's real email before public launch.
+No AdSense code added.

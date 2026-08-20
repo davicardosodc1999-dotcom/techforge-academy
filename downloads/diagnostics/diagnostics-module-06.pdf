@@ -1,0 +1,1102 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 5
+/Kids [ 4 0 R 11 0 R 15 0 R 19 0 R 23 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 5540
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 57.02362 770.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (FREE MOBILE DIAGNOSTICS COURSE \227 MODULE 06) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 742.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 18 Tf 22 TL 66.09517 0 Td (Liquid, Corrosion and Intermittent Faults) Tj T* -66.09517 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 712.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Understand why liquid exposure and corrosion create complex, changing symptoms and why intermittent) Tj T* (faults require patient documentation and careful escalation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 704.8661 cm
+Q
+q
+1 0 0 1 57.02362 674.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Module objective) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 644.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Understand why liquid exposure and corrosion create complex, changing symptoms and why intermittent) Tj T* (faults require patient documentation and careful escalation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 638.8661 cm
+Q
+q
+1 0 0 1 57.02362 608.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (What diagnostic competence looks like) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 554.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL (This module focuses on liquid, corrosion and intermittent faults. Competence means being able to convert) Tj T* (symptoms into evidence, explain why a test is useful, interpret the result honestly, and choose the next step) Tj T* (without creating unnecessary risk. A strong diagnostician reduces uncertainty systematically and knows) Tj T* (when the evidence supports repair, further testing or escalation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 548.8661 cm
+Q
+q
+1 0 0 1 57.02362 518.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Start by rewriting the complaint as a testable symptom) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 464.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL (Customers often describe a problem using conclusions rather than observations. A diagnostic technician) Tj T* -0.006978 Tw (should translate that statement into something reproducible. Does the device show no sign of power? Does it) Tj T* 0 Tw (charge only at a certain angle? Is there image but no touch? Does it restart under load? A precise symptom) Tj T* (is the first piece of evidence. Without it, the rest of the process becomes guesswork.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 458.8661 cm
+Q
+q
+1 0 0 1 57.02362 428.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Confirm what still works) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 386.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (Record what functions normally before you disassemble anything. Power behavior, charging, display, touch,) Tj T* (cameras, microphones, speakers, buttons, wireless functions, vibration and sensors can all provide clues.) Tj T* (Working functions help narrow the search and create a baseline for post-repair testing.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 380.8661 cm
+Q
+q
+1 0 0 1 57.02362 350.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Use hypotheses, not assumptions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 296.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL (A hypothesis is a possible explanation that can be tested. An assumption is a conclusion accepted without) Tj T* (enough evidence. If a phone does not charge, possible explanations can include the cable, adapter,) Tj T* (contamination, connector, battery, charging assembly, software state or board-level fault. The next step) Tj T* (should be chosen because it can eliminate or support one of those possibilities.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 290.8661 cm
+Q
+q
+1 0 0 1 57.02362 260.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Prefer the least invasive useful test) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 218.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (Start with observations and tests that add information without creating new risk. Visual inspection,) Tj T* (known-good external accessories, settings checks, controlled restart behavior, connector inspection and) Tj T* (model-specific service information can often reveal more than immediate disassembly.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 212.8661 cm
+Q
+q
+1 0 0 1 57.02362 182.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Document the sequence) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 140.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (Write down the symptom, test, result and conclusion at each stage. Diagnostic notes prevent circular) Tj T* (troubleshooting where the same checks are repeated without learning anything new. A simple format works) Tj T* (well: observation, hypothesis, test, result, next decision.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 134.8661 cm
+Q
+q
+1 0 0 1 57.02362 104.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Know when a result is inconclusive) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 62.86614 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL -0.068921 Tw (Not every test produces a clear yes-or-no answer. A device may behave normally for several minutes and fail) Tj T* 0 Tw (only under heat, movement, charging load or network activity. Treat uncertainty honestly. 'Not reproduced) Tj T* (yet' is better than pretending the fault has been solved.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.35 g
+BT
+1 0 0 1 45.35433 813.5433 Tm
+(TECHFORGE ACADEMY) Tj
+T*
+ET
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+0.5 g
+BT
+1 0 0 1 395.8723 25.51181 Tm
+(Free course study material \055 TechForge Academy) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/Contents 12 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 13 0 R
+/F2 8 0 R
+/F2-0 14 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 5258
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 57.02362 778.8661 cm
+Q
+q
+1 0 0 1 57.02362 748.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Do not replace multiple parts at once) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 718.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Changing several components simultaneously destroys useful evidence. Replace or alter only what the) Tj T* (evidence justifies, then test before moving to the next hypothesis.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 712.8661 cm
+Q
+q
+1 0 0 1 57.02362 682.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Use exact-model information) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 640.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (The same symptom can require different access points, connector checks or service procedures on different) Tj T* (devices. Before any physical diagnostic work, identify the exact model and compare it with reliable service) Tj T* (information.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 634.8661 cm
+Q
+q
+1 0 0 1 57.02362 604.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Safety is part of diagnosis) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 574.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (A damaged battery, severe liquid exposure, heat, burning odor, smoke, electrical damage or unknown) Tj T* (previous repair can change the risk level immediately. Safe escalation is a legitimate diagnostic outcome.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 568.8661 cm
+Q
+q
+1 0 0 1 57.02362 538.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (The final test must return to the original symptom) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 496.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (After any repair or corrective action, reproduce the original use case as closely as practical. Final verification) Tj T* (should answer the same question that started the diagnostic process: is the original problem actually) Tj T* (resolved?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 490.8661 cm
+Q
+q
+1 0 0 1 57.02362 460.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Treat liquid history as uncertainty, not a single fault) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 442.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Corrosion can affect several circuits and evolve over time.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 436.8661 cm
+Q
+q
+1 0 0 1 57.02362 406.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Document intermittent triggers) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 388.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Movement, temperature, charging load and time can reveal patterns.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 382.8661 cm
+Q
+q
+1 0 0 1 57.02362 352.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Escalate board-level corrosion responsibly) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 334.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Advanced corrosion diagnosis may require microscopy, board knowledge and specialized equipment.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 328.8661 cm
+Q
+q
+1 0 0 1 57.02362 298.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Diagnostic reasoning drill 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 208.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 74 Tm /F1 10 Tf 12 TL (Choose a hypothetical device complaint and create a four-column diagnostic note: observation, hypothesis,) Tj T* (test and result. Observation must contain only something that can be seen, heard, measured or reproduced.) Tj T* -0.043853 Tw (Hypothesis should be one possible explanation, not a conclusion. Test should be the safest useful action that) Tj T* 0 Tw (can support or weaken that hypothesis. Result should describe what actually happened, even if it was) Tj T* (inconclusive. Then write the next decision you would make. Repeat the exercise with a different hypothesis) Tj T* (for the same symptom. This prevents tunnel vision and trains you to compare explanations instead of) Tj T* (becoming attached to the first idea that sounds plausible.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 202.8661 cm
+Q
+q
+1 0 0 1 57.02362 172.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Diagnostic reasoning drill 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 82.86614 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 74 Tm /F1 10 Tf 12 TL (Choose a hypothetical device complaint and create a four-column diagnostic note: observation, hypothesis,) Tj T* (test and result. Observation must contain only something that can be seen, heard, measured or reproduced.) Tj T* -0.043853 Tw (Hypothesis should be one possible explanation, not a conclusion. Test should be the safest useful action that) Tj T* 0 Tw (can support or weaken that hypothesis. Result should describe what actually happened, even if it was) Tj T* (inconclusive. Then write the next decision you would make. Repeat the exercise with a different hypothesis) Tj T* (for the same symptom. This prevents tunnel vision and trains you to compare explanations instead of) Tj T* (becoming attached to the first idea that sounds plausible.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 76.86614 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.35 g
+BT
+1 0 0 1 45.35433 813.5433 Tm
+(TECHFORGE ACADEMY) Tj
+T*
+ET
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+0.5 g
+BT
+1 0 0 1 395.8723 25.51181 Tm
+(Free course study material \055 TechForge Academy) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+13 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+14 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+15 0 obj
+<<
+/Contents 16 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 17 0 R
+/F2 8 0 R
+/F2-0 18 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+16 0 obj
+<<
+/Length 6242
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 57.02362 766.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Diagnostic reasoning drill 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 676.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 74 Tm /F1 10 Tf 12 TL (Choose a hypothetical device complaint and create a four-column diagnostic note: observation, hypothesis,) Tj T* (test and result. Observation must contain only something that can be seen, heard, measured or reproduced.) Tj T* -0.043853 Tw (Hypothesis should be one possible explanation, not a conclusion. Test should be the safest useful action that) Tj T* 0 Tw (can support or weaken that hypothesis. Result should describe what actually happened, even if it was) Tj T* (inconclusive. Then write the next decision you would make. Repeat the exercise with a different hypothesis) Tj T* (for the same symptom. This prevents tunnel vision and trains you to compare explanations instead of) Tj T* (becoming attached to the first idea that sounds plausible.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 670.8661 cm
+Q
+q
+1 0 0 1 57.02362 640.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Diagnostic reasoning drill 4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 550.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 74 Tm /F1 10 Tf 12 TL (Choose a hypothetical device complaint and create a four-column diagnostic note: observation, hypothesis,) Tj T* (test and result. Observation must contain only something that can be seen, heard, measured or reproduced.) Tj T* -0.043853 Tw (Hypothesis should be one possible explanation, not a conclusion. Test should be the safest useful action that) Tj T* 0 Tw (can support or weaken that hypothesis. Result should describe what actually happened, even if it was) Tj T* (inconclusive. Then write the next decision you would make. Repeat the exercise with a different hypothesis) Tj T* (for the same symptom. This prevents tunnel vision and trains you to compare explanations instead of) Tj T* (becoming attached to the first idea that sounds plausible.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 544.8661 cm
+Q
+q
+1 0 0 1 57.02362 514.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Diagnostic reasoning drill 5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 424.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 74 Tm /F1 10 Tf 12 TL (Choose a hypothetical device complaint and create a four-column diagnostic note: observation, hypothesis,) Tj T* (test and result. Observation must contain only something that can be seen, heard, measured or reproduced.) Tj T* -0.043853 Tw (Hypothesis should be one possible explanation, not a conclusion. Test should be the safest useful action that) Tj T* 0 Tw (can support or weaken that hypothesis. Result should describe what actually happened, even if it was) Tj T* (inconclusive. Then write the next decision you would make. Repeat the exercise with a different hypothesis) Tj T* (for the same symptom. This prevents tunnel vision and trains you to compare explanations instead of) Tj T* (becoming attached to the first idea that sounds plausible.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 418.8661 cm
+Q
+q
+1 0 0 1 57.02362 388.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Diagnostic reasoning drill 6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 298.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 74 Tm /F1 10 Tf 12 TL (Choose a hypothetical device complaint and create a four-column diagnostic note: observation, hypothesis,) Tj T* (test and result. Observation must contain only something that can be seen, heard, measured or reproduced.) Tj T* -0.043853 Tw (Hypothesis should be one possible explanation, not a conclusion. Test should be the safest useful action that) Tj T* 0 Tw (can support or weaken that hypothesis. Result should describe what actually happened, even if it was) Tj T* (inconclusive. Then write the next decision you would make. Repeat the exercise with a different hypothesis) Tj T* (for the same symptom. This prevents tunnel vision and trains you to compare explanations instead of) Tj T* (becoming attached to the first idea that sounds plausible.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 292.8661 cm
+Q
+q
+1 0 0 1 57.02362 262.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Diagnostic reasoning drill 7) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 172.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 74 Tm /F1 10 Tf 12 TL (Choose a hypothetical device complaint and create a four-column diagnostic note: observation, hypothesis,) Tj T* (test and result. Observation must contain only something that can be seen, heard, measured or reproduced.) Tj T* -0.043853 Tw (Hypothesis should be one possible explanation, not a conclusion. Test should be the safest useful action that) Tj T* 0 Tw (can support or weaken that hypothesis. Result should describe what actually happened, even if it was) Tj T* (inconclusive. Then write the next decision you would make. Repeat the exercise with a different hypothesis) Tj T* (for the same symptom. This prevents tunnel vision and trains you to compare explanations instead of) Tj T* (becoming attached to the first idea that sounds plausible.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 166.8661 cm
+Q
+q
+1 0 0 1 57.02362 136.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Diagnostic reasoning drill 8) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 58.86614 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL (Choose a hypothetical device complaint and create a four-column diagnostic note: observation, hypothesis,) Tj T* (test and result. Observation must contain only something that can be seen, heard, measured or reproduced.) Tj T* -0.043853 Tw (Hypothesis should be one possible explanation, not a conclusion. Test should be the safest useful action that) Tj T* 0 Tw (can support or weaken that hypothesis. Result should describe what actually happened, even if it was) Tj T* (inconclusive. Then write the next decision you would make. Repeat the exercise with a different hypothesis) Tj T* (for the same symptom. This prevents tunnel vision and trains you to compare explanations instead of) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.35 g
+BT
+1 0 0 1 45.35433 813.5433 Tm
+(TECHFORGE ACADEMY) Tj
+T*
+ET
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+0.5 g
+BT
+1 0 0 1 395.8723 25.51181 Tm
+(Free course study material \055 TechForge Academy) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+17 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+18 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+19 0 obj
+<<
+/Contents 20 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 21 0 R
+/F2 8 0 R
+/F2-0 22 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+20 0 obj
+<<
+/Length 5548
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 57.02362 772.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (becoming attached to the first idea that sounds plausible.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 766.8661 cm
+Q
+q
+1 0 0 1 57.02362 736.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Common diagnostic mistakes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 682.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL (The most common mistakes are replacing parts before confirming the symptom, using one successful boot) Tj T* (as proof that a fault is gone, skipping baseline tests, ignoring customer history, changing multiple variables) Tj T* (simultaneously and treating every unusual behavior as hardware failure. A good diagnostic process remains) Tj T* (willing to reject its favorite hypothesis when the evidence does not support it.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 676.8661 cm
+Q
+q
+1 0 0 1 57.02362 646.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Build a verification checklist) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 604.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL (Before you consider a case complete, list the original complaint, the corrective action and the tests required) Tj T* (to prove resolution. Include nearby functions that could have been disturbed. If the problem was intermittent) Tj T* (and cannot be reproduced after service, record that limitation rather than promising certainty.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 598.8661 cm
+Q
+q
+1 0 0 1 57.02362 568.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Free learning resources) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 538.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (The lesson, quiz and downloadable PDF are provided at no cost. The PDF is intended for offline review and) Tj T* (diagnostic practice. Students can repeat the knowledge check without paying or losing access.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 532.8661 cm
+Q
+q
+1 0 0 1 57.02362 502.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Case analysis exercise) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 424.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL (Imagine the first test did not support your original hypothesis. Return to the evidence, list what the test ruled) Tj T* (out, what remains possible and what new information would be most valuable. Consider whether the) Tj T* (symptom could be environmental, software-related, connector-related, power-related, peripheral or) Tj T* (board-level. Choose a next step that is proportionate to the risk and explain what outcome would change) Tj T* -0.005083 Tw (your plan. A diagnostic workflow is not a script with one path; it is a decision process that adapts as evidence) Tj T* 0 Tw (changes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 418.8661 cm
+Q
+q
+1 0 0 1 57.02362 388.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Case analysis exercise) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 310.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL (Imagine the first test did not support your original hypothesis. Return to the evidence, list what the test ruled) Tj T* (out, what remains possible and what new information would be most valuable. Consider whether the) Tj T* (symptom could be environmental, software-related, connector-related, power-related, peripheral or) Tj T* (board-level. Choose a next step that is proportionate to the risk and explain what outcome would change) Tj T* -0.005083 Tw (your plan. A diagnostic workflow is not a script with one path; it is a decision process that adapts as evidence) Tj T* 0 Tw (changes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 304.8661 cm
+Q
+q
+1 0 0 1 57.02362 274.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Case analysis exercise) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 196.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL (Imagine the first test did not support your original hypothesis. Return to the evidence, list what the test ruled) Tj T* (out, what remains possible and what new information would be most valuable. Consider whether the) Tj T* (symptom could be environmental, software-related, connector-related, power-related, peripheral or) Tj T* (board-level. Choose a next step that is proportionate to the risk and explain what outcome would change) Tj T* -0.005083 Tw (your plan. A diagnostic workflow is not a script with one path; it is a decision process that adapts as evidence) Tj T* 0 Tw (changes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 190.8661 cm
+Q
+q
+1 0 0 1 57.02362 160.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Case analysis exercise) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 82.86614 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL (Imagine the first test did not support your original hypothesis. Return to the evidence, list what the test ruled) Tj T* (out, what remains possible and what new information would be most valuable. Consider whether the) Tj T* (symptom could be environmental, software-related, connector-related, power-related, peripheral or) Tj T* (board-level. Choose a next step that is proportionate to the risk and explain what outcome would change) Tj T* -0.005083 Tw (your plan. A diagnostic workflow is not a script with one path; it is a decision process that adapts as evidence) Tj T* 0 Tw (changes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 76.86614 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.35 g
+BT
+1 0 0 1 45.35433 813.5433 Tm
+(TECHFORGE ACADEMY) Tj
+T*
+ET
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+0.5 g
+BT
+1 0 0 1 395.8723 25.51181 Tm
+(Free course study material \055 TechForge Academy) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+21 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+22 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+23 0 obj
+<<
+/Contents 24 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 25 0 R
+/F2 8 0 R
+/F2-0 26 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+24 0 obj
+<<
+/Length 2838
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 57.02362 766.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Case analysis exercise) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 688.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL (Imagine the first test did not support your original hypothesis. Return to the evidence, list what the test ruled) Tj T* (out, what remains possible and what new information would be most valuable. Consider whether the) Tj T* (symptom could be environmental, software-related, connector-related, power-related, peripheral or) Tj T* (board-level. Choose a next step that is proportionate to the risk and explain what outcome would change) Tj T* -0.005083 Tw (your plan. A diagnostic workflow is not a script with one path; it is a decision process that adapts as evidence) Tj T* 0 Tw (changes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 682.8661 cm
+Q
+q
+1 0 0 1 57.02362 652.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Case analysis exercise) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 574.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL (Imagine the first test did not support your original hypothesis. Return to the evidence, list what the test ruled) Tj T* (out, what remains possible and what new information would be most valuable. Consider whether the) Tj T* (symptom could be environmental, software-related, connector-related, power-related, peripheral or) Tj T* (board-level. Choose a next step that is proportionate to the risk and explain what outcome would change) Tj T* -0.005083 Tw (your plan. A diagnostic workflow is not a script with one path; it is a decision process that adapts as evidence) Tj T* 0 Tw (changes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 568.8661 cm
+Q
+q
+1 0 0 1 57.02362 538.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Case analysis exercise) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 460.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL (Imagine the first test did not support your original hypothesis. Return to the evidence, list what the test ruled) Tj T* (out, what remains possible and what new information would be most valuable. Consider whether the) Tj T* (symptom could be environmental, software-related, connector-related, power-related, peripheral or) Tj T* (board-level. Choose a next step that is proportionate to the risk and explain what outcome would change) Tj T* -0.005083 Tw (your plan. A diagnostic workflow is not a script with one path; it is a decision process that adapts as evidence) Tj T* 0 Tw (changes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 454.8661 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.35 g
+BT
+1 0 0 1 45.35433 813.5433 Tm
+(TECHFORGE ACADEMY) Tj
+T*
+ET
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+0.5 g
+BT
+1 0 0 1 395.8723 25.51181 Tm
+(Free course study material \055 TechForge Academy) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+25 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+26 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 27
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000141 00000 n 
+0000000190 00000 n 
+0000000456 00000 n 
+0000006048 00000 n 
+0000006155 00000 n 
+0000006262 00000 n 
+0000006381 00000 n 
+0000006493 00000 n 
+0000006606 00000 n 
+0000006876 00000 n 
+0000012187 00000 n 
+0000012295 00000 n 
+0000012408 00000 n 
+0000012678 00000 n 
+0000018973 00000 n 
+0000019081 00000 n 
+0000019194 00000 n 
+0000019464 00000 n 
+0000025065 00000 n 
+0000025173 00000 n 
+0000025286 00000 n 
+0000025556 00000 n 
+0000028447 00000 n 
+0000028555 00000 n 
+trailer
+<<
+/Size 27
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+28668
+%%EOF

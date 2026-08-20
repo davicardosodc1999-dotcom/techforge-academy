@@ -1,0 +1,7 @@
+BLOCK 9.3 EXACT INDEX PATCH
+
+skill-start-btn: OK
+skill-game.js: OK
+TECH LAB: OK
+Contact header: OK
+Android icon: OK

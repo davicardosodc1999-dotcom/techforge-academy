@@ -1,0 +1,13 @@
+BLOCK 11 — UNIFIED PROGRESS + QUIZZES + CERTIFICATE ELIGIBILITY
+
+Android: 8 modules connected to unified progress.
+iPhone: 8 modules connected to unified progress.
+Laptop: 8 modules connected to unified progress.
+Each connected module receives a 3-question free knowledge check.
+A module can only be marked complete after passing the knowledge check.
+Dashboard shows course and overall progress.
+Certificate eligibility requires 100% completion of one course.
+Certificate preview is explicitly a preview and does not pretend to be a verified production credential.
+No AdSense code added.
+All progress remains localStorage-only in this development block; authenticated accounts/backend remain future work.
+Existing game files and manual successful game hotfixes from Block 10 are preserved.

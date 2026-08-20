@@ -1,0 +1,15 @@
+FINALIZATION V1
+
+Client contact email:
+juarezimoveispronto@gmail.com
+
+BEFORE PUBLICATION — REQUIRED MANUAL VALUES:
+1. Replace every occurrence of TechForge Academy with the client's final platform name.
+2. Replace every occurrence of https://YOUR-DOMAIN.com with the final production domain including https:// and no trailing slash.
+3. Add final course/card/lesson images.
+4. Add one appropriate video per module.
+5. Only then submit sitemap.xml to Google Search Console.
+
+AdSense:
+- No AdSense code is installed in this finalization block.
+- Do not enable ads until the final production domain, privacy/consent configuration, content review and account details are ready.

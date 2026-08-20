@@ -1,0 +1,6 @@
+BLOCK 12.1 — ENGLISH CLEANUP
+
+Corrected visible Portuguese remnants in index.html, course-android.html, course-electronics.html and js/main.js.
+Includes the quiz option correction: 'Nunca consertei nada' → 'I have never repaired anything'.
+Remaining matches in strict Portuguese scan: 0
+NONE

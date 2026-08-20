@@ -1,0 +1,17 @@
+BLOCK 6 — EDITORIAL DEPTH + ENGLISH CERTIFICATE
+
+Client rule: every Smartphone Repair module must have at least 2,000 words.
+Automated HTML-visible-text word counts:
+lesson-smartphones-01.html: 2595 words
+lesson-smartphones-02.html: 2540 words
+lesson-smartphones-03.html: 2545 words
+lesson-smartphones-04.html: 2486 words
+lesson-smartphones-05.html: 2486 words
+lesson-smartphones-06.html: 2504 words
+lesson-smartphones-07.html: 2496 words
+lesson-smartphones-08.html: 2451 words
+
+Certificate destination was rebuilt in English.
+No AdSense code was added in this block.
+Existing free PDF, one-video-slot, quiz and step-visual structure was preserved.
+Note: exact repair photography and final selected videos still require rights-safe/model-specific sourcing before public launch.

@@ -1,0 +1,8 @@
+TECHFORGE ACADEMY — YOUTUBE THUMBNAIL PLAYER QA
+
+PUBLIC LESSONS: 40
+VIDEO SLOTS: 40
+THUMBNAIL STRATEGY: YouTube hqdefault thumbnail
+CLICK BEHAVIOR: Thumbnail -> official youtube-nocookie.com iframe
+AUTOPLAY: Only after explicit user click
+VIDEO FILES DOWNLOADED OR REHOSTED: NO

@@ -1,0 +1,66 @@
+TECHFORGE ACADEMY — YOUTUBE VIDEO IDS
+
+HOW TO USE
+Replace YOUTUBE_VIDEO_ID in each lesson HTML with the 11-character YouTube video ID.
+Example:
+YouTube URL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+Video ID: dQw4w9WgXcQ
+
+You can also paste a full YouTube URL into data-youtube-video; the script accepts standard YouTube, youtu.be, Shorts and Live URLs.
+
+IMPORTANT
+- Use only videos the client owns, has permission to embed, or that are legitimately embeddable.
+- One focused video is enough for each module/lesson unit.
+- Written course content, visual steps and the free PDF remain available independently of the video.
+- The embed uses youtube-nocookie.com and lazy loading.
+
+VIDEO MAP
+lesson-android-01.html=YOUTUBE_VIDEO_ID
+lesson-android-02.html=YOUTUBE_VIDEO_ID
+lesson-android-03.html=YOUTUBE_VIDEO_ID
+lesson-android-04.html=YOUTUBE_VIDEO_ID
+lesson-android-05.html=YOUTUBE_VIDEO_ID
+lesson-android-06.html=YOUTUBE_VIDEO_ID
+lesson-android-07.html=YOUTUBE_VIDEO_ID
+lesson-android-08.html=YOUTUBE_VIDEO_ID
+lesson-diagnostics-01.html=YOUTUBE_VIDEO_ID
+lesson-diagnostics-02.html=YOUTUBE_VIDEO_ID
+lesson-diagnostics-03.html=YOUTUBE_VIDEO_ID
+lesson-diagnostics-04.html=YOUTUBE_VIDEO_ID
+lesson-diagnostics-05.html=YOUTUBE_VIDEO_ID
+lesson-diagnostics-06.html=YOUTUBE_VIDEO_ID
+lesson-diagnostics-07.html=YOUTUBE_VIDEO_ID
+lesson-diagnostics-08.html=YOUTUBE_VIDEO_ID
+lesson-iphone-01.html=YOUTUBE_VIDEO_ID
+lesson-iphone-02.html=YOUTUBE_VIDEO_ID
+lesson-iphone-03.html=YOUTUBE_VIDEO_ID
+lesson-iphone-04.html=YOUTUBE_VIDEO_ID
+lesson-iphone-05.html=YOUTUBE_VIDEO_ID
+lesson-iphone-06.html=YOUTUBE_VIDEO_ID
+lesson-iphone-07.html=YOUTUBE_VIDEO_ID
+lesson-iphone-08.html=YOUTUBE_VIDEO_ID
+lesson-laptop-01.html=YOUTUBE_VIDEO_ID
+lesson-laptop-02.html=YOUTUBE_VIDEO_ID
+lesson-laptop-03.html=YOUTUBE_VIDEO_ID
+lesson-laptop-04.html=YOUTUBE_VIDEO_ID
+lesson-laptop-05.html=YOUTUBE_VIDEO_ID
+lesson-laptop-06.html=YOUTUBE_VIDEO_ID
+lesson-laptop-07.html=YOUTUBE_VIDEO_ID
+lesson-laptop-08.html=YOUTUBE_VIDEO_ID
+lesson-smartphones-01.html=YOUTUBE_VIDEO_ID
+lesson-smartphones-02.html=YOUTUBE_VIDEO_ID
+lesson-smartphones-03.html=YOUTUBE_VIDEO_ID
+lesson-smartphones-04.html=YOUTUBE_VIDEO_ID
+lesson-smartphones-05.html=YOUTUBE_VIDEO_ID
+lesson-smartphones-06.html=YOUTUBE_VIDEO_ID
+lesson-smartphones-07.html=YOUTUBE_VIDEO_ID
+lesson-smartphones-08.html=YOUTUBE_VIDEO_ID
+
+lesson-electronics-01.html=YOUTUBE_VIDEO_ID
+lesson-electronics-02.html=YOUTUBE_VIDEO_ID
+lesson-electronics-03.html=YOUTUBE_VIDEO_ID
+lesson-electronics-04.html=YOUTUBE_VIDEO_ID
+lesson-electronics-05.html=YOUTUBE_VIDEO_ID
+lesson-electronics-06.html=YOUTUBE_VIDEO_ID
+lesson-electronics-07.html=YOUTUBE_VIDEO_ID
+lesson-electronics-08.html=YOUTUBE_VIDEO_ID

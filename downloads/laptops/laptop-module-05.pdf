@@ -1,0 +1,1031 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 5
+/Kids [ 4 0 R 11 0 R 15 0 R 19 0 R 23 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 5578
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 57.02362 770.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (FREE LAPTOP COURSE \227 MODULE 05) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 742.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 18 Tf 22 TL 68.57917 0 Td (Battery, Charging and Power Symptoms) Tj T* -68.57917 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 712.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Separate battery symptoms from charger, DC-in, USB-C, software and board-level causes while learning) Tj T* (safe battery handling and evidence-based diagnosis.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 704.8661 cm
+Q
+q
+1 0 0 1 57.02362 674.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Module objective) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 644.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Separate battery symptoms from charger, DC-in, USB-C, software and board-level causes while learning) Tj T* (safe battery handling and evidence-based diagnosis.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 638.8661 cm
+Q
+q
+1 0 0 1 57.02362 608.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (What competence means here) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 554.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL (This module is about battery, charging and power symptoms. Competence means more than recognizing) Tj T* (component names. You should understand the reasoning behind the workflow, identify the risks, know what) Tj T* (information must come from the exact laptop model, and be able to define a verification plan. The goal is to) Tj T* (finish the lesson able to explain what you would do and why, not merely repeat a sequence from memory.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 548.8661 cm
+Q
+q
+1 0 0 1 57.02362 518.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Begin with the exact laptop model) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 440.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL (Laptop families often share a brand name while using different chassis, batteries, displays, storage) Tj T* (interfaces, memory layouts, cooling systems and service procedures. Before opening a machine, identify the) Tj T* (exact model and, when possible, the product or machine type number. Compare the device with reliable) Tj T* (model-specific service documentation. If the layout in front of you differs from your reference, stop and verify) Tj T* (instead of forcing the next step. A correct model reference can prevent damaged clips, cables, screws and) Tj T* (incompatible upgrades.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 434.8661 cm
+Q
+q
+1 0 0 1 57.02362 404.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Separate external power before service) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 338.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL (Shut the operating system down normally when possible and disconnect the AC adapter or USB-C power) Tj T* (source before opening the machine. Many laptops also contain an internal battery that remains electrically) Tj T* (connected even when the computer is off. Follow model-specific guidance for battery isolation before) Tj T* (manipulating sensitive internal components. Do not work on a swollen, punctured, crushed, unusually hot or) Tj T* (otherwise damaged lithium-ion battery as if it were a normal beginner exercise.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 332.8661 cm
+Q
+q
+1 0 0 1 57.02362 302.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Document the condition before you begin) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 236.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL (Record the reported symptom, visible condition and key functions before service. If the laptop works, verify) Tj T* (basics such as charging, display, keyboard, trackpad, wireless connectivity, storage detection and audio) Tj T* (where relevant. During service, photograph cable routes and unusual bracket arrangements when) Tj T* (appropriate. Keep fasteners organized by location. Documentation gives you a baseline for final testing and) Tj T* (reduces the chance of blaming a pre-existing fault on the repair process.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 230.8661 cm
+Q
+q
+1 0 0 1 57.02362 200.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Use evidence instead of replacement guesses) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 134.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL (A laptop that will not power on can involve the charger, cable, charging port, battery, embedded controller,) Tj T* (firmware, memory, main board or other components. A slow laptop can involve storage, memory pressure,) Tj T* -0.004215 Tw (software, thermal throttling or a failing drive. Do not select a replacement part simply because it is associated) Tj T* 0 Tw (with the symptom. Confirm the behavior, inspect the machine, perform safe external checks and choose the) Tj T* (next test that reduces uncertainty.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 128.8661 cm
+Q
+q
+1 0 0 1 57.02362 98.86614 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Keep the repair controlled) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 68.86614 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Every action should have a purpose. Before removing a cover, cable or module, ask what you need to) Tj T* (access, what can be damaged and what would make you stop. Resistance can indicate a hidden screw, a) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.35 g
+BT
+1 0 0 1 45.35433 813.5433 Tm
+(TECHFORGE ACADEMY) Tj
+T*
+ET
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+0.5 g
+BT
+1 0 0 1 395.8723 25.51181 Tm
+(Free course study material \055 TechForge Academy) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/Contents 12 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 13 0 R
+/F2 8 0 R
+/F2-0 14 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 5616
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 57.02362 760.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (clip, adhesive, a cable or an incorrect assumption. Never use extra force merely because a panel has not) Tj T* (released. Improve visibility, compare with the service reference and understand the cause before continuing.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 754.8661 cm
+Q
+q
+1 0 0 1 57.02362 724.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Treat flex cables and connectors as precision parts) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 670.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL (Laptop keyboards, trackpads, displays, speakers, batteries and I/O boards often use small ribbon cables or) Tj T* (board connectors. Some connectors use locking tabs; others press vertically or slide. The release method is) Tj T* (not universal. Inspect the connector and use the exact service procedure rather than prying blindly. A) Tj T* (damaged socket can turn a simple maintenance job into board-level repair.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 664.8661 cm
+Q
+q
+1 0 0 1 57.02362 634.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Use one video as reinforcement) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 580.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL (Each module provides one focused video position because the student should not need to jump through a) Tj T* (playlist to understand the lesson. Watch the video for the complete flow, then study the written explanation) Tj T* (and step visuals for slower reasoning and safety detail. Finally, revisit the video to reinforce the sequence.) Tj T* (The video complements the platform's original material rather than replacing it.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 574.8661 cm
+Q
+q
+1 0 0 1 57.02362 544.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Testing is part of the service) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 478.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL (A maintenance job is not complete just because the laptop reaches the desktop. Test the original complaint) Tj T* (and the systems that may have been disturbed. Depending on the work, that can include charging, battery) Tj T* (detection, display, keyboard, trackpad, memory, storage, USB ports, audio, wireless networking, sleep and) Tj T* (wake behavior, fans, temperature and sustained stability. Record the results so the outcome can be) Tj T* (compared with the pre-service baseline.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 472.8661 cm
+Q
+q
+1 0 0 1 57.02362 442.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Know where beginner scope ends) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 376.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL (Some laptop work is appropriate for careful beginners, such as certain RAM or storage upgrades on) Tj T* (machines designed for service. Other work can involve soldered power circuits, damaged lithium batteries,) Tj T* (liquid-damaged boards, high-voltage sections in external power equipment, delicate display assemblies or) Tj T* (complex board-level faults. Capability includes recognizing when you need specialized tools, manufacturer) Tj T* (information or qualified professional help.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 370.8661 cm
+Q
+q
+1 0 0 1 57.02362 340.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Confirm the power source first) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 322.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Use a known-compatible adapter and inspect external charging behavior before opening the machine.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 316.8661 cm
+Q
+q
+1 0 0 1 57.02362 286.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Separate battery symptoms from charging faults) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 268.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Poor runtime, no charge or unexpected shutdowns can involve several systems.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 262.8661 cm
+Q
+q
+1 0 0 1 57.02362 232.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Stop for damaged batteries) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 214.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Swelling, heat, deformation or damage requires safe handling beyond ordinary beginner practice.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 208.8661 cm
+Q
+q
+1 0 0 1 57.02362 178.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Applied reasoning drill 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 76.86614 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 86 Tm /F1 10 Tf 12 TL (Imagine a laptop arrives with a complaint related to this module. Build a five-part plan: observation, risk,) Tj T* (reference, action and verification. Observation must contain only facts you can reproduce or inspect. Risk) Tj T* (should name the battery, cable, connector, data, component or function that could be harmed. Reference) Tj T* (should identify the exact-model service information or compatibility data you still need. Action should) Tj T* (describe one controlled intervention rather than a chain of assumptions. Verification should name the tests) Tj T* (that prove whether the intervention achieved its purpose. If the machine does not match the reference, stop) Tj T* (and resolve the difference before continuing. This drill trains a repair process that can be explained and) Tj T* (audited instead of improvised.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 70.86614 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.35 g
+BT
+1 0 0 1 45.35433 813.5433 Tm
+(TECHFORGE ACADEMY) Tj
+T*
+ET
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+0.5 g
+BT
+1 0 0 1 395.8723 25.51181 Tm
+(Free course study material \055 TechForge Academy) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+13 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+14 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+15 0 obj
+<<
+/Contents 16 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 17 0 R
+/F2 8 0 R
+/F2-0 18 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+16 0 obj
+<<
+/Length 6095
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 57.02362 766.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Applied reasoning drill 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 664.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 86 Tm /F1 10 Tf 12 TL (Imagine a laptop arrives with a complaint related to this module. Build a five-part plan: observation, risk,) Tj T* (reference, action and verification. Observation must contain only facts you can reproduce or inspect. Risk) Tj T* (should name the battery, cable, connector, data, component or function that could be harmed. Reference) Tj T* (should identify the exact-model service information or compatibility data you still need. Action should) Tj T* (describe one controlled intervention rather than a chain of assumptions. Verification should name the tests) Tj T* (that prove whether the intervention achieved its purpose. If the machine does not match the reference, stop) Tj T* (and resolve the difference before continuing. This drill trains a repair process that can be explained and) Tj T* (audited instead of improvised.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 658.8661 cm
+Q
+q
+1 0 0 1 57.02362 628.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Applied reasoning drill 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 526.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 86 Tm /F1 10 Tf 12 TL (Imagine a laptop arrives with a complaint related to this module. Build a five-part plan: observation, risk,) Tj T* (reference, action and verification. Observation must contain only facts you can reproduce or inspect. Risk) Tj T* (should name the battery, cable, connector, data, component or function that could be harmed. Reference) Tj T* (should identify the exact-model service information or compatibility data you still need. Action should) Tj T* (describe one controlled intervention rather than a chain of assumptions. Verification should name the tests) Tj T* (that prove whether the intervention achieved its purpose. If the machine does not match the reference, stop) Tj T* (and resolve the difference before continuing. This drill trains a repair process that can be explained and) Tj T* (audited instead of improvised.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 520.8661 cm
+Q
+q
+1 0 0 1 57.02362 490.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Applied reasoning drill 4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 388.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 86 Tm /F1 10 Tf 12 TL (Imagine a laptop arrives with a complaint related to this module. Build a five-part plan: observation, risk,) Tj T* (reference, action and verification. Observation must contain only facts you can reproduce or inspect. Risk) Tj T* (should name the battery, cable, connector, data, component or function that could be harmed. Reference) Tj T* (should identify the exact-model service information or compatibility data you still need. Action should) Tj T* (describe one controlled intervention rather than a chain of assumptions. Verification should name the tests) Tj T* (that prove whether the intervention achieved its purpose. If the machine does not match the reference, stop) Tj T* (and resolve the difference before continuing. This drill trains a repair process that can be explained and) Tj T* (audited instead of improvised.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 382.8661 cm
+Q
+q
+1 0 0 1 57.02362 352.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Applied reasoning drill 5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 250.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 86 Tm /F1 10 Tf 12 TL (Imagine a laptop arrives with a complaint related to this module. Build a five-part plan: observation, risk,) Tj T* (reference, action and verification. Observation must contain only facts you can reproduce or inspect. Risk) Tj T* (should name the battery, cable, connector, data, component or function that could be harmed. Reference) Tj T* (should identify the exact-model service information or compatibility data you still need. Action should) Tj T* (describe one controlled intervention rather than a chain of assumptions. Verification should name the tests) Tj T* (that prove whether the intervention achieved its purpose. If the machine does not match the reference, stop) Tj T* (and resolve the difference before continuing. This drill trains a repair process that can be explained and) Tj T* (audited instead of improvised.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 244.8661 cm
+Q
+q
+1 0 0 1 57.02362 214.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Common beginner mistakes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 148.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL (Typical mistakes include opening the machine before confirming the model, mixing screws, pulling ribbon) Tj T* (cables, forcing covers, using incompatible upgrade parts, cleaning while a battery remains connected when) Tj T* (the procedure requires isolation, and judging success only by whether Windows boots. Another frequent) Tj T* (mistake is changing several things at once. If multiple variables change, you may not know which one fixed) Tj T* (the fault or which one introduced a new problem. Preserve diagnostic clarity by working in controlled steps.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 142.8661 cm
+Q
+q
+1 0 0 1 57.02362 112.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Build a final test plan) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 58.86614 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL (Before reassembly, decide what you will test afterward. Include the original complaint and any functions) Tj T* (physically disturbed by the work. A memory upgrade should be followed by detection and stability checks.) Tj T* (Storage work should verify detection, boot behavior and data handling appropriate to the task. Cooling work) Tj T* (should include fan behavior and temperature observation. Display or peripheral work should include the) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.35 g
+BT
+1 0 0 1 45.35433 813.5433 Tm
+(TECHFORGE ACADEMY) Tj
+T*
+ET
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+0.5 g
+BT
+1 0 0 1 395.8723 25.51181 Tm
+(Free course study material \055 TechForge Academy) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+17 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+18 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+19 0 obj
+<<
+/Contents 20 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 21 0 R
+/F2 8 0 R
+/F2-0 22 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+20 0 obj
+<<
+/Length 6020
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 57.02362 772.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (affected inputs and outputs. Testing should be written down rather than improvised at the end.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 766.8661 cm
+Q
+q
+1 0 0 1 57.02362 736.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Free learning resources) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 670.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL (This lesson, the knowledge check and the downloadable PDF are provided free of charge. The PDF is) Tj T* (intended for offline review so the student can revisit the workflow without needing to keep the lesson open.) Tj T* -0.129536 Tw (Free access does not mean shallow content. The course is being designed so that a learner who completes it) Tj T* 0 Tw (carefully can move into appropriate supervised practice with a structured process, realistic expectations and) Tj T* (clear safety limits.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 664.8661 cm
+Q
+q
+1 0 0 1 57.02362 634.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Service planning exercise 6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 544.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 74 Tm /F1 10 Tf 12 TL (Choose a hypothetical laptop model and write a service plan without opening it. Record the model identifier,) Tj T* (the complaint, the compatible power source, the internal battery strategy, the tools you expect to need and) Tj T* (the model-specific documentation you would consult. Then list three things that could make you stop before) Tj T* (the planned intervention. Finish with a verification checklist that covers the original symptom and every) Tj T* (subsystem you might disturb. The value of this exercise is not the imaginary repair itself; it is learning to) Tj T* (prepare decisions before the device is open and vulnerable. Repeat the exercise until the sequence feels) Tj T* (natural and evidence-driven rather than rushed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 538.8661 cm
+Q
+q
+1 0 0 1 57.02362 508.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Service planning exercise 7) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 418.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 74 Tm /F1 10 Tf 12 TL (Choose a hypothetical laptop model and write a service plan without opening it. Record the model identifier,) Tj T* (the complaint, the compatible power source, the internal battery strategy, the tools you expect to need and) Tj T* (the model-specific documentation you would consult. Then list three things that could make you stop before) Tj T* (the planned intervention. Finish with a verification checklist that covers the original symptom and every) Tj T* (subsystem you might disturb. The value of this exercise is not the imaginary repair itself; it is learning to) Tj T* (prepare decisions before the device is open and vulnerable. Repeat the exercise until the sequence feels) Tj T* (natural and evidence-driven rather than rushed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 412.8661 cm
+Q
+q
+1 0 0 1 57.02362 382.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Service planning exercise 8) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 292.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 74 Tm /F1 10 Tf 12 TL (Choose a hypothetical laptop model and write a service plan without opening it. Record the model identifier,) Tj T* (the complaint, the compatible power source, the internal battery strategy, the tools you expect to need and) Tj T* (the model-specific documentation you would consult. Then list three things that could make you stop before) Tj T* (the planned intervention. Finish with a verification checklist that covers the original symptom and every) Tj T* (subsystem you might disturb. The value of this exercise is not the imaginary repair itself; it is learning to) Tj T* (prepare decisions before the device is open and vulnerable. Repeat the exercise until the sequence feels) Tj T* (natural and evidence-driven rather than rushed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 286.8661 cm
+Q
+q
+1 0 0 1 57.02362 256.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Service planning exercise 9) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 166.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 74 Tm /F1 10 Tf 12 TL (Choose a hypothetical laptop model and write a service plan without opening it. Record the model identifier,) Tj T* (the complaint, the compatible power source, the internal battery strategy, the tools you expect to need and) Tj T* (the model-specific documentation you would consult. Then list three things that could make you stop before) Tj T* (the planned intervention. Finish with a verification checklist that covers the original symptom and every) Tj T* (subsystem you might disturb. The value of this exercise is not the imaginary repair itself; it is learning to) Tj T* (prepare decisions before the device is open and vulnerable. Repeat the exercise until the sequence feels) Tj T* (natural and evidence-driven rather than rushed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 160.8661 cm
+Q
+q
+1 0 0 1 57.02362 130.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Service planning exercise 10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 64.86614 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL (Choose a hypothetical laptop model and write a service plan without opening it. Record the model identifier,) Tj T* (the complaint, the compatible power source, the internal battery strategy, the tools you expect to need and) Tj T* (the model-specific documentation you would consult. Then list three things that could make you stop before) Tj T* (the planned intervention. Finish with a verification checklist that covers the original symptom and every) Tj T* (subsystem you might disturb. The value of this exercise is not the imaginary repair itself; it is learning to) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.35 g
+BT
+1 0 0 1 45.35433 813.5433 Tm
+(TECHFORGE ACADEMY) Tj
+T*
+ET
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+0.5 g
+BT
+1 0 0 1 395.8723 25.51181 Tm
+(Free course study material \055 TechForge Academy) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+21 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+22 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+23 0 obj
+<<
+/Contents 24 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 25 0 R
+/F2 8 0 R
+/F2-0 26 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+24 0 obj
+<<
+/Length 1142
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 57.02362 760.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (prepare decisions before the device is open and vulnerable. Repeat the exercise until the sequence feels) Tj T* (natural and evidence-driven rather than rushed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 754.8661 cm
+Q
+q
+1 0 0 1 57.02362 744.8661 cm
+Q
+q
+1 0 0 1 57.02362 714.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 14 Tf 18 TL (Safety and scope) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 686.8661 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 13.7 Tm /F1 8.3 Tf 11 TL (Use exact-model service documentation before physical work. Disconnect external power and follow the model-specific internal) Tj T* (battery isolation procedure. Damaged lithium-ion batteries and board-level faults may require qualified professional handling.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+0.35 g
+BT
+1 0 0 1 45.35433 813.5433 Tm
+(TECHFORGE ACADEMY) Tj
+T*
+ET
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+0.5 g
+BT
+1 0 0 1 395.8723 25.51181 Tm
+(Free course study material \055 TechForge Academy) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+25 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+26 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 27
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000141 00000 n 
+0000000190 00000 n 
+0000000456 00000 n 
+0000006086 00000 n 
+0000006193 00000 n 
+0000006300 00000 n 
+0000006419 00000 n 
+0000006531 00000 n 
+0000006644 00000 n 
+0000006914 00000 n 
+0000012583 00000 n 
+0000012691 00000 n 
+0000012804 00000 n 
+0000013074 00000 n 
+0000019222 00000 n 
+0000019330 00000 n 
+0000019443 00000 n 
+0000019713 00000 n 
+0000025786 00000 n 
+0000025894 00000 n 
+0000026007 00000 n 
+0000026277 00000 n 
+0000027472 00000 n 
+0000027580 00000 n 
+trailer
+<<
+/Size 27
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+27693
+%%EOF

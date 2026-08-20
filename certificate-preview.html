@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en" lang="en">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Certificate Preview | TechForge Academy</title><link rel="stylesheet" href="css/style.css">
+<style>
+.preview-page{min-height:100vh;padding:70px 20px;background:#05080d;display:grid;place-items:center}
+.cert-preview{width:min(100%,1000px);padding:clamp(34px,7vw,80px);border:1px solid rgba(0,229,255,.24);background:radial-gradient(circle at 50% 0,rgba(0,229,255,.08),transparent 34%),#0b1118;text-align:center;box-shadow:0 30px 90px rgba(0,0,0,.45)}
+.cert-preview .mark{color:var(--cyan);font-weight:900;letter-spacing:.17em}
+.cert-preview h1{font-family:var(--font-title);font-size:clamp(2.5rem,6vw,5.5rem);margin:18px 0}
+.cert-preview .student{font-family:var(--font-title);font-size:clamp(1.8rem,4vw,3rem);color:#fff;border-bottom:1px solid var(--line);padding-bottom:12px;margin:28px auto;max-width:720px}
+.cert-preview p{color:var(--muted)}.preview-warning{margin-top:28px;padding:14px;border:1px solid rgba(255,181,71,.24);color:#d7c4a6;font-size:.8rem}
+</style>
+<link rel="canonical" href="https://YOUR-DOMAIN.com/certificate-preview.html">
+<meta name="theme-color" content="#06080D">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="manifest" href="site.webmanifest">
+</head>
+<body><main class="preview-page"><section class="cert-preview">
+<span class="mark">CERTIFICATE PREVIEW</span><h1>Certificate of Completion</h1>
+<p>This preview shows the future certificate layout after verified course completion.</p>
+<div class="student">STUDENT NAME</div>
+<p>has completed the free course</p>
+<h2 id="preview-course">COURSE NAME</h2>
+<p>Completion date • Course workload • Validation code planned for production</p>
+<div class="preview-warning">Preview only. A production certificate should be generated from authenticated completion records and include a verifiable unique code.</div>
+<p style="margin-top:22px"><a class="btn btn-secondary" href="certificate.html">← BACK TO CERTIFICATE STATUS</a></p>
+</section></main>
+<script>
+const names={android:"Android Repair",iphone:"iPhone Repair",laptops:"Laptop Maintenance",diagnostics:"Mobile Device Diagnostics",electronics:"Electronics Essentials"};
+const c=new URLSearchParams(location.search).get("course");
+document.getElementById("preview-course").textContent=names[c]||"COURSE NAME";
+</script></body></html>

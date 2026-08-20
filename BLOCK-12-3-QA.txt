@@ -1,0 +1,12 @@
+BLOCK 12.3 — DIGITAL SNAKE + ENGLISH CLEANUP
+
+Changes:
+- Footer labels translated to English.
+- Remaining quiz recommendation messages translated to English.
+- Existing top scroll progress converted into a digital snake inspired by classic mobile snake games.
+- Snake grows with page scroll and gets a subtle completion pulse at the end.
+- Reduced-motion preference respected.
+- Existing minigame, course progress, certificates and links preserved.
+
+Targeted Portuguese remnants after patch: 0
+NONE
